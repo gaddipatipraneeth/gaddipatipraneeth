@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/praneeth-gaddipati">
-    <img src="https://img.shields.io/badge/LinkedIn-praneeth--gaddipati-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/[LinkedIn-praneeth--gaddipati-0A66C2](https://www.linkedin.com/in/praneeth-gaddipati-6a7a891aa/)?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gaddipatipraneeth@gmail.com">
     <img src="https://img.shields.io/badge/Email-gaddipatipraneeth@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
