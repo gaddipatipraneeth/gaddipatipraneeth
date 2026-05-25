@@ -72,11 +72,11 @@ Results-driven Data Engineer with **2+ years of experience** at Cognizant design
 
 ## Featured Projects
 
-### [Multi-Agent ML Assistant](https://github.com/gaddipatipraneeth/multi-agent-ml-assistant)
+### [Multi-Agent ML Assistant](https://github.com/gaddipatipraneeth/Multi_Agent_ML_Assistant)
 Autonomous end-to-end ML pipeline with **5 specialized LangGraph agents** (Profiler, Cleaner, Feature Engineer, Modeler, Critic). Self-correcting critic loop powered by **Groq/Llama 3** with sandboxed code execution via E2B cloud environments.
 `Python` `LangGraph` `LangChain` `Groq` `Streamlit` `Scikit-learn` `E2B`
 
-### [Multi-Level RAG Agent](https://github.com/gaddipatipraneeth/multi-level-rag-agent)
+### [Multi-Level RAG Agent](https://github.com/gaddipatipraneeth/Rag_agent_praneeth)
 Multi-level **Retrieval-Augmented Generation** pipeline integrating document ingestion, chunking, embedding, and semantic vector search with optimized similarity matching.
 `Python` `LangChain` `Vector DB` `LLM APIs`
 
