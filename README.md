@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Praneeth 👋</h1>
+<h1 align="center">Hi, I'm Praneeth </h1>
 
 <p align="center">
   <b>Data Engineer & AI Builder</b> · MS Data Science @ UNT (GPA 4.0) · Ex-Cognizant / PepsiCo<br>
@@ -29,10 +29,10 @@ Results-driven Data Engineer with **2+ years of experience** at Cognizant design
 
 ## What I've worked On
 
-- 🤖 Multi-agent ML pipelines using **LangGraph** with self-correcting critic loops (Groq/Llama 3)
-- 🔍 **RAG systems** with vector search, document chunking, and semantic retrieval
-- ☁️ Azure-based **ETL pipelines** with Data Factory and Databricks
-- 📊 **KPI dashboards** in Power BI and Tableau for actionable business insights
+- Multi-agent ML pipelines using **LangGraph** with self-correcting critic loops (Groq/Llama 3)
+- **RAG systems** with vector search, document chunking, and semantic retrieval
+- Azure-based **ETL pipelines** with Data Factory and Databricks
+- **KPI dashboards** in Power BI and Tableau for actionable business insights
 
 ---
 
@@ -72,23 +72,23 @@ Results-driven Data Engineer with **2+ years of experience** at Cognizant design
 
 ## Featured Projects
 
-### 🤖 [Multi-Agent ML Assistant](https://github.com/YOUR_USERNAME/multi-agent-ml-assistant)
+### [Multi-Agent ML Assistant](https://github.com/YOUR_USERNAME/multi-agent-ml-assistant)
 Autonomous end-to-end ML pipeline with **5 specialized LangGraph agents** (Profiler, Cleaner, Feature Engineer, Modeler, Critic). Self-correcting critic loop powered by **Groq/Llama 3** with sandboxed code execution via E2B cloud environments.
 `Python` `LangGraph` `LangChain` `Groq` `Streamlit` `Scikit-learn` `E2B`
 
-### 🔍 [Multi-Level RAG Agent](https://github.com/YOUR_USERNAME/multi-level-rag-agent)
+### [Multi-Level RAG Agent](https://github.com/YOUR_USERNAME/multi-level-rag-agent)
 Multi-level **Retrieval-Augmented Generation** pipeline integrating document ingestion, chunking, embedding, and semantic vector search with optimized similarity matching.
 `Python` `LangChain` `Vector DB` `LLM APIs`
 
-### 🚗 [Smart Ride — UNT Ride Sharing App](https://github.com/YOUR_USERNAME/smart-ride-unt)
+### [Smart Ride — UNT Ride Sharing App](https://github.com/YOUR_USERNAME/smart-ride-unt)
 Campus ride-sharing platform with real-time ride matching, GPS tracking, fare calculation, PostgreSQL backend, payment integration, and SOS safety alerts.
 `Python` `PostgreSQL` `FastAPI`
 
-### 📊 [Housing Affordability & Equity Dashboard](https://github.com/YOUR_USERNAME/housing-equity-dashboard)
+### [Housing Affordability & Equity Dashboard](https://github.com/YOUR_USERNAME/housing-equity-dashboard)
 End-to-end ETL workflows integrating multi-source datasets with Tableau dashboards tracking affordability, occupancy, and mobility KPIs.
 `Python` `Pandas` `Tableau` `ETL`
 
-### 🚂 [Railway Database Management System](https://github.com/YOUR_USERNAME/railway-db-management)
+### [Railway Database Management System](https://github.com/YOUR_USERNAME/railway-db-management)
 Relational database system for railway scheduling and reservation management with SQL schema, Python automation scripts for booking and fare calc, deployed on **AWS EC2**.
 `Python` `SQL` `PostgreSQL` `AWS EC2`
 
@@ -97,7 +97,7 @@ Relational database system for railway scheduling and reservation management wit
 ## Experience
 
 **Data Engineer - Cognizant Technology Solutions (Client: PepsiCo)** *(Aug 2022 – Aug 2024)*
-- Designed ETL pipelines using **Azure Data Factory & Databricks** to migrate enterprise data from Teradata to Azure — improving reporting efficiency by **30%**
+- Designed ETL pipelines using **Azure Data Factory & Databricks** to migrate enterprise data from Teradata to Azure -improving reporting efficiency by **30%**
 - Built Power BI dashboards tracking KPIs: processing time, utilization, and conversion metrics
 - Implemented data validation frameworks achieving **99% data accuracy**
 
