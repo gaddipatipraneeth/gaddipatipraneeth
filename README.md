@@ -111,14 +111,6 @@ Relational database system for railway scheduling and reservation management wit
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to Data Engineering, AI Engineering, and Data Science roles. Let's connect!</i>
