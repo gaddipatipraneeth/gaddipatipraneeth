@@ -96,7 +96,7 @@ Relational database system for railway scheduling and reservation management wit
 
 ## Experience
 
-**Data Engineer — Cognizant Technology Solutions (Client: PepsiCo)** *(Aug 2022 – Aug 2024)*
+**Data Engineer - Cognizant Technology Solutions (Client: PepsiCo)** *(Aug 2022 – Aug 2024)*
 - Designed ETL pipelines using **Azure Data Factory & Databricks** to migrate enterprise data from Teradata to Azure — improving reporting efficiency by **30%**
 - Built Power BI dashboards tracking KPIs: processing time, utilization, and conversion metrics
 - Implemented data validation frameworks achieving **99% data accuracy**
